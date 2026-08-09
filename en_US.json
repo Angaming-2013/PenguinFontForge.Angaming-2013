@@ -1,5 +1,5 @@
 {
-  "unicodeName": "Unicode $1%s has a base-10 value of $2%s and belongs to the $3%s block"
+  "unicodeName": "Unicode $1%s has a base-10 value of $2%s and belongs to the $3%s block",
   "unicode.type.1": "Basic Latin",
   "unicode.type.2": "Latin-1 Supplement",
   "unicode.type.3": "Latin Extended-A",
@@ -164,5 +164,5 @@
   "unicode.type.162": "Small Form Variants",
   "unicode.type.163": "Arabic Presentation Forms-B",
   "unicode.type.164": "Halfwidth and Fullwidth Forms",
-  "unicode.type.165": "Specials",
+  "unicode.type.165": "Specials"
 }
