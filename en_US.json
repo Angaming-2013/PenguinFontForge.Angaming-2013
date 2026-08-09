@@ -165,8 +165,8 @@
   "unicode.type.163": "Arabic Presentation Forms-B",
   "unicode.type.164": "Halfwidth and Fullwidth Forms",
   "unicode.type.165": "Specials",
-  "setting.name":"Settings"
+  "setting.name": "Settings",
   "setting.hotkey.goToUnicode": "Go to Unicode",
-  "setting.yes":"Done",
-  "setting.cancel":"Cancel"
+  "setting.yes": "Done",
+  "setting.cancel": "Cancel"
 }
