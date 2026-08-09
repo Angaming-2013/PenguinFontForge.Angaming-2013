@@ -164,5 +164,9 @@
   "unicode.type.162": "Small Form Variants",
   "unicode.type.163": "Arabic Presentation Forms-B",
   "unicode.type.164": "Halfwidth and Fullwidth Forms",
-  "unicode.type.165": "Specials"
+  "unicode.type.165": "Specials",
+  "setting.name":"Settings"
+  "setting.hotkey.goToUnicode": "Go to Unicode",
+  "setting.yes":"Done",
+  "setting.cancel":"Cancel"
 }
