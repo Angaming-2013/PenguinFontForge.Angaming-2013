@@ -1,4 +1,5 @@
 {
+  "unicodeName": "Unicode $1%s has a base-10 value of $2%s and belongs to the $3%s block"
   "unicode.type.1": "Basic Latin",
   "unicode.type.2": "Latin-1 Supplement",
   "unicode.type.3": "Latin Extended-A",
