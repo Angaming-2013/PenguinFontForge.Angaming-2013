@@ -1,3 +1,4 @@
+{
   "unicodeName": "Unicode U+$1%s「$2%s」は、10進数値「$3%s」を持ち、$4%sの範囲に属しています。基本ラテン文字",
   "unicode.type.1": "基本ラテン文字",
   "unicode.type.2": "ラテン文字1補助",
@@ -167,4 +168,9 @@
   "setting.name": "設定",
   "setting.hotkey.goToUnicode": "Unicodeへ移動",
   "setting.yes": "完了",
-  "setting.cancel": "キャンセル"
+  "setting.cancel": "キャンセル",
+  "ChaEndcode.name":"文字エンコーディング",
+  "ChaEndcode.type":"文字エンコーディングの種類",
+  "ChaEndcode.BPM": "エンコーディング: BMP (0000 -> FFFF)"
+  "ChaEndcode.Full": "エンコーディング: Full (0000 -> 10FFFF)"
+}
