@@ -165,188 +165,188 @@
   "unicode.type.163": "阿拉伯字母形式表達-B",
   "unicode.type.164": "半形及全形字元",
   "unicode.type.165": "特殊字元區",
-  "unicode.type.166": "線形文字B音節文字"
-  "unicode.type.167": "線形文字B意符"
-  "unicode.type.168": "愛琴海數字"
-  "unicode.type.169": "古希臘數字"
-  "unicode.type.170": "古代符號"
-  "unicode.type.171": "斐斯托斯圓盤"
-  "unicode.type.172": "呂基亞語字母"
-  "unicode.type.173": "卡里亞字母"
-  "unicode.type.174": "科普特曆法數字"
-  "unicode.type.175": "古義大利字母"
-  "unicode.type.176": "歌德字母"
-  "unicode.type.177": "古彼爾姆字母"
-  "unicode.type.178": "烏加里特字母"
-  "unicode.type.179": "古波斯楔形文字"
-  "unicode.type.180": "德塞雷特字母"
-  "unicode.type.181": "蕭伯字母"
-  "unicode.type.182": "奧斯曼亞字母"
-  "unicode.type.183": "奧塞奇字母"
-  "unicode.type.184": "埃爾巴桑字母"
-  "unicode.type.185": "高加索阿爾巴尼亞字母"
-  "unicode.type.186": "維特庫奇字母"
-  "unicode.type.187": "托德里字母"
-  "unicode.type.188": "線形文字A"
-  "unicode.type.189": "拉丁字母擴展-F"
-  "unicode.type.190": "賽普勒斯音節文字"
-  "unicode.type.191": "帝國阿拉米字母"
-  "unicode.type.192": "帕米拉字母"
-  "unicode.type.193": "納巴泰字母"
-  "unicode.type.194": "哈特拉字母"
-  "unicode.type.195": "腓尼基字母"
-  "unicode.type.196": "呂底亞字母"
-  "unicode.type.197": "西德字母"
-  "unicode.type.198": "麥羅埃象形文字"
-  "unicode.type.199": "麥羅埃草書"
-  "unicode.type.200": "佉盧字母"
-  "unicode.type.201": "古南阿拉伯字母"
-  "unicode.type.202": "古北阿拉伯字母"
-  "unicode.type.203": "摩尼字母"
-  "unicode.type.204": "阿維斯陀字母"
-  "unicode.type.205": "銘文帕提亞字母"
-  "unicode.type.206": "銘文巴列維字母"
-  "unicode.type.207": "詩篇巴列維字母"
-  "unicode.type.208": "古突厥字母"
-  "unicode.type.209": "古匈牙利字母"
-  "unicode.type.210": "哈尼菲羅興亞字母"
-  "unicode.type.211": "加雷字母"
-  "unicode.type.212": "魯米數字符號"
-  "unicode.type.213": "雅茲迪字母"
-  "unicode.type.214": "阿拉伯字母擴展-C"
-  "unicode.type.215": "古粟特字母"
-  "unicode.type.216": "粟特字母"
-  "unicode.type.217": "古維吾爾字母"
-  "unicode.type.218": "花剌子模字母"
-  "unicode.type.219": "埃利邁字母"
-  "unicode.type.220": "婆羅米字母"
-  "unicode.type.221": "凱提字母"
-  "unicode.type.222": "索拉松彭字母"
-  "unicode.type.223": "查克馬字母"
-  "unicode.type.224": "馬哈賈尼字母"
-  "unicode.type.225": "夏拉達字母"
-  "unicode.type.226": "僧伽羅古數字"
-  "unicode.type.227": "霍傑基字母"
-  "unicode.type.228": "木爾坦字母"
-  "unicode.type.229": "胡達瓦迪字母"
-  "unicode.type.230": "格蘭塔字母"
-  "unicode.type.231": "圖盧-蒂加拉里字母"
-  "unicode.type.232": "尼瓦字母"
-  "unicode.type.233": "蒂爾胡塔字母"
-  "unicode.type.234": "悉曇字母"
-  "unicode.type.235": "莫迪字母"
-  "unicode.type.236": "蒙古文補充"
-  "unicode.type.237": "塔克里字母"
-  "unicode.type.238": "緬甸文擴展-C"
-  "unicode.type.239": "阿洪字母"
-  "unicode.type.240": "多格拉字母"
-  "unicode.type.241": "瓦朗克蒂字母"
-  "unicode.type.242": "迪維斯阿庫魯字母"
-  "unicode.type.243": "南迪納加里字母"
-  "unicode.type.244": "札納巴札爾方形字母"
-  "unicode.type.245": "索永布字母"
-  "unicode.type.246": "統一加拿大原住民音節文字擴展-A"
-  "unicode.type.247": "保欽豪字母"
-  "unicode.type.248": "天城文擴展-A"
-  "unicode.type.249": "夏拉達字母補充"
-  "unicode.type.250": "蘇努瓦爾字母"
-  "unicode.type.251": "拜克蘇基字母"
-  "unicode.type.252": "馬爾琴字母"
-  "unicode.type.253": "馬薩拉姆貢德字母"
-  "unicode.type.254": "貢賈拉貢德字母"
-  "unicode.type.255": "托隆西基字母"
-  "unicode.type.256": "望加錫字母"
-  "unicode.type.257": "卡維字母"
-  "unicode.type.258": "傈僳文補充"
-  "unicode.type.259": "泰米爾文補充"
-  "unicode.type.260": "楔形文字"
-  "unicode.type.261": "楔形文字數字與標點符號"
-  "unicode.type.262": "早王朝楔形文字"
-  "unicode.type.263": "塞浦路斯-米諾斯文字"
-  "unicode.type.264": "埃及象形文字"
-  "unicode.type.265": "埃及象形文字格式控制符"
-  "unicode.type.266": "埃及象形文字擴充-A"
-  "unicode.type.267": "安那托利亞象形文字"
-  "unicode.type.268": "古隆字母Khema"
-  "unicode.type.269": "Bamum 補充"
-  "unicode.type.270": "Mro"
-  "unicode.type.271": "Tangsa"
-  "unicode.type.272": "Bassa Vah"
-  "unicode.type.273": "Pahawh Hmong"
-  "unicode.type.274": "Kirat Rai"
-  "unicode.type.275": "Medefaidrin"
-  "unicode.type.276": "Beria Erfe"
-  "unicode.type.277": "Miao"
-  "unicode.type.278": "表意符號和標點符號"
-  "unicode.type.279": "西夏文"
-  "unicode.type.280": "西夏文部首"
-  "unicode.type.281": "契丹小字"
-  "unicode.type.282": "西夏文補充"
-  "unicode.type.283": "西夏文部首補充"
-  "unicode.type.284": "假名擴展-B"
-  "unicode.type.285": "假名補充"
-  "unicode.type.286": "假名擴展-A"
-  "unicode.type.287": "小假名擴展"
-  "unicode.type.288": "女書"
-  "unicode.type.289": "Duployan 速記符號"
-  "unicode.type.290": "速記格式控制符"
-  "unicode.type.291": "舊式計算符號補充"
-  "unicode.type.292": "雜項符號補充"
-  "unicode.type.293": "Znamenny 樂譜符號"
-  "unicode.type.294": "拜占庭樂譜符號"
-  "unicode.type.295": "樂譜符號"
-  "unicode.type.296": "古希臘樂譜符號"
-  "unicode.type.297": "Kaktovik 數字"
-  "unicode.type.298": "瑪雅數字"
-  "unicode.type.299": "太玄經符號"
-  "unicode.type.300": "算籌數字"
-  "unicode.type.301": "數學字母數字符號"
-  "unicode.type.302": "Sutton 手語書寫符號"
-  "unicode.type.303": "拉丁字母擴展-G"
-  "unicode.type.304": "格拉哥裡字母補充"
-  "unicode.type.305": "西里爾字母擴展-D"
-  "unicode.type.306": "Nyiakeng Puachue Hmong"
-  "unicode.type.307": "Toto"
-  "unicode.type.308": "Wancho"
-  "unicode.type.309": "Nag Mundari"
-  "unicode.type.310": "Ol Onal"
-  "unicode.type.311": "Tai Yo"
-  "unicode.type.312": "埃塞俄比亞字母擴展-B"
-  "unicode.type.313": "Mende Kikakui"
-  "unicode.type.314": "Adlam"
-  "unicode.type.315": "印度 Siyaq 數字"
-  "unicode.type.316": "奧斯曼 Siyaq 數字"
-  "unicode.type.317": "阿拉伯數學字母符號"
-  "unicode.type.318": "麻將牌"
-  "unicode.type.319": "骨牌"
-  "unicode.type.320": "撲克牌"
-  "unicode.type.321": "帶圈字母數字補充"
-  "unicode.type.322": "帶圈式表意符號補充"
-  "unicode.type.323": "雜項符號和象形文字"
-  "unicode.type.324": "表情符號"
-  "unicode.type.325": "裝飾符號"
-  "unicode.type.326": "交通和地圖符號"
-  "unicode.type.327": "煉金術符號"
-  "unicode.type.328": "幾何形狀擴展"
-  "unicode.type.329": "補充箭頭-C"
-  "unicode.type.330": "補充符號和象形文字"
-  "unicode.type.331": "西洋棋符號"
-  "unicode.type.332": "符號和象形文字擴展-A"
-  "unicode.type.333": "舊式計算符號"
-  "unicode.type.334": "中日韓統一表意文字擴展 B"
-  "unicode.type.335": "中日韓統一表意文字擴充 C"
-  "unicode.type.336": "中日韓統一表意文字擴展 D"
-  "unicode.type.337": "中日韓統一表意文字擴展 E"
-  "unicode.type.338": "中日韓統一表意文字擴充 F"
-  "unicode.type.339": "中日韓統一表意文字擴展 I"
-  "unicode.type.340": "中日韓相容表意文字補充"
-  "unicode.type.341": "中日韓統一表意文字擴展 G"
-  "unicode.type.342": "中日韓統一表意文字擴展 H"
-  "unicode.type.343": "中日韓統一表意文字擴展 J"
-  "unicode.type.344": "標籤"
-  "unicode.type.345": "變體選擇符補充"
-  "unicode.type.346": "補充私用區-A"
-  "unicode.type.347": "補充私人區域-B"
+  "unicode.type.166": "線形文字B音節文字",
+  "unicode.type.167": "線形文字B意符",
+  "unicode.type.168": "愛琴海數字",
+  "unicode.type.169": "古希臘數字",
+  "unicode.type.170": "古代符號",
+  "unicode.type.171": "斐斯托斯圓盤",
+  "unicode.type.172": "呂基亞語字母",
+  "unicode.type.173": "卡里亞字母",
+  "unicode.type.174": "科普特曆法數字",
+  "unicode.type.175": "古義大利字母",
+  "unicode.type.176": "歌德字母",
+  "unicode.type.177": "古彼爾姆字母",
+  "unicode.type.178": "烏加里特字母",
+  "unicode.type.179": "古波斯楔形文字",
+  "unicode.type.180": "德塞雷特字母",
+  "unicode.type.181": "蕭伯字母",
+  "unicode.type.182": "奧斯曼亞字母",
+  "unicode.type.183": "奧塞奇字母",
+  "unicode.type.184": "埃爾巴桑字母",
+  "unicode.type.185": "高加索阿爾巴尼亞字母",
+  "unicode.type.186": "維特庫奇字母",
+  "unicode.type.187": "托德里字母",
+  "unicode.type.188": "線形文字A",
+  "unicode.type.189": "拉丁字母擴展-F",
+  "unicode.type.190": "賽普勒斯音節文字",
+  "unicode.type.191": "帝國阿拉米字母",
+  "unicode.type.192": "帕米拉字母",
+  "unicode.type.193": "納巴泰字母",
+  "unicode.type.194": "哈特拉字母",
+  "unicode.type.195": "腓尼基字母",
+  "unicode.type.196": "呂底亞字母",
+  "unicode.type.197": "西德字母",
+  "unicode.type.198": "麥羅埃象形文字",
+  "unicode.type.199": "麥羅埃草書",
+  "unicode.type.200": "佉盧字母",
+  "unicode.type.201": "古南阿拉伯字母",
+  "unicode.type.202": "古北阿拉伯字母",
+  "unicode.type.203": "摩尼字母",
+  "unicode.type.204": "阿維斯陀字母",
+  "unicode.type.205": "銘文帕提亞字母",
+  "unicode.type.206": "銘文巴列維字母",
+  "unicode.type.207": "詩篇巴列維字母",
+  "unicode.type.208": "古突厥字母",
+  "unicode.type.209": "古匈牙利字母",
+  "unicode.type.210": "哈尼菲羅興亞字母",
+  "unicode.type.211": "加雷字母",
+  "unicode.type.212": "魯米數字符號",
+  "unicode.type.213": "雅茲迪字母",
+  "unicode.type.214": "阿拉伯字母擴展-C",
+  "unicode.type.215": "古粟特字母",
+  "unicode.type.216": "粟特字母",
+  "unicode.type.217": "古維吾爾字母",
+  "unicode.type.218": "花剌子模字母",
+  "unicode.type.219": "埃利邁字母",
+  "unicode.type.220": "婆羅米字母",
+  "unicode.type.221": "凱提字母",
+  "unicode.type.222": "索拉松彭字母",
+  "unicode.type.223": "查克馬字母",
+  "unicode.type.224": "馬哈賈尼字母",
+  "unicode.type.225": "夏拉達字母",
+  "unicode.type.226": "僧伽羅古數字",
+  "unicode.type.227": "霍傑基字母",
+  "unicode.type.228": "木爾坦字母",
+  "unicode.type.229": "胡達瓦迪字母",
+  "unicode.type.230": "格蘭塔字母",
+  "unicode.type.231": "圖盧-蒂加拉里字母",
+  "unicode.type.232": "尼瓦字母",
+  "unicode.type.233": "蒂爾胡塔字母",
+  "unicode.type.234": "悉曇字母",
+  "unicode.type.235": "莫迪字母",
+  "unicode.type.236": "蒙古文補充",
+  "unicode.type.237": "塔克里字母",
+  "unicode.type.238": "緬甸文擴展-C",
+  "unicode.type.239": "阿洪字母",
+  "unicode.type.240": "多格拉字母",
+  "unicode.type.241": "瓦朗克蒂字母",
+  "unicode.type.242": "迪維斯阿庫魯字母",
+  "unicode.type.243": "南迪納加里字母",
+  "unicode.type.244": "札納巴札爾方形字母",
+  "unicode.type.245": "索永布字母",
+  "unicode.type.246": "統一加拿大原住民音節文字擴展-A",
+  "unicode.type.247": "保欽豪字母",
+  "unicode.type.248": "天城文擴展-A",
+  "unicode.type.249": "夏拉達字母補充",
+  "unicode.type.250": "蘇努瓦爾字母",
+  "unicode.type.251": "拜克蘇基字母",
+  "unicode.type.252": "馬爾琴字母",
+  "unicode.type.253": "馬薩拉姆貢德字母",
+  "unicode.type.254": "貢賈拉貢德字母",
+  "unicode.type.255": "托隆西基字母",
+  "unicode.type.256": "望加錫字母",
+  "unicode.type.257": "卡維字母",
+  "unicode.type.258": "傈僳文補充",
+  "unicode.type.259": "泰米爾文補充",
+  "unicode.type.260": "楔形文字",
+  "unicode.type.261": "楔形文字數字與標點符號",
+  "unicode.type.262": "早王朝楔形文字",
+  "unicode.type.263": "塞浦路斯-米諾斯文字",
+  "unicode.type.264": "埃及象形文字",
+  "unicode.type.265": "埃及象形文字格式控制符",
+  "unicode.type.266": "埃及象形文字擴充-A",
+  "unicode.type.267": "安那托利亞象形文字",
+  "unicode.type.268": "古隆字母Khema",
+  "unicode.type.269": "Bamum 補充",
+  "unicode.type.270": "Mro",
+  "unicode.type.271": "Tangsa",
+  "unicode.type.272": "Bassa Vah",
+  "unicode.type.273": "Pahawh Hmong",
+  "unicode.type.274": "Kirat Rai",
+  "unicode.type.275": "Medefaidrin",
+  "unicode.type.276": "Beria Erfe",
+  "unicode.type.277": "Miao",
+  "unicode.type.278": "表意符號和標點符號",
+  "unicode.type.279": "西夏文",
+  "unicode.type.280": "西夏文部首",
+  "unicode.type.281": "契丹小字",
+  "unicode.type.282": "西夏文補充",
+  "unicode.type.283": "西夏文部首補充",
+  "unicode.type.284": "假名擴展-B",
+  "unicode.type.285": "假名補充",
+  "unicode.type.286": "假名擴展-A",
+  "unicode.type.287": "小假名擴展",
+  "unicode.type.288": "女書",
+  "unicode.type.289": "Duployan 速記符號",
+  "unicode.type.290": "速記格式控制符",
+  "unicode.type.291": "舊式計算符號補充",
+  "unicode.type.292": "雜項符號補充",
+  "unicode.type.293": "Znamenny 樂譜符號",
+  "unicode.type.294": "拜占庭樂譜符號",
+  "unicode.type.295": "樂譜符號",
+  "unicode.type.296": "古希臘樂譜符號",
+  "unicode.type.297": "Kaktovik 數字",
+  "unicode.type.298": "瑪雅數字",
+  "unicode.type.299": "太玄經符號",
+  "unicode.type.300": "算籌數字",
+  "unicode.type.301": "數學字母數字符號",
+  "unicode.type.302": "Sutton 手語書寫符號",
+  "unicode.type.303": "拉丁字母擴展-G",
+  "unicode.type.304": "格拉哥裡字母補充",
+  "unicode.type.305": "西里爾字母擴展-D",
+  "unicode.type.306": "Nyiakeng Puachue Hmong",
+  "unicode.type.307": "Toto",
+  "unicode.type.308": "Wancho",
+  "unicode.type.309": "Nag Mundari",
+  "unicode.type.310": "Ol Onal",
+  "unicode.type.311": "Tai Yo",
+  "unicode.type.312": "埃塞俄比亞字母擴展-B",
+  "unicode.type.313": "Mende Kikakui",
+  "unicode.type.314": "Adlam",
+  "unicode.type.315": "印度 Siyaq 數字",
+  "unicode.type.316": "奧斯曼 Siyaq 數字",
+  "unicode.type.317": "阿拉伯數學字母符號",
+  "unicode.type.318": "麻將牌",
+  "unicode.type.319": "骨牌",
+  "unicode.type.320": "撲克牌",
+  "unicode.type.321": "帶圈字母數字補充",
+  "unicode.type.322": "帶圈式表意符號補充",
+  "unicode.type.323": "雜項符號和象形文字",
+  "unicode.type.324": "表情符號",
+  "unicode.type.325": "裝飾符號",
+  "unicode.type.326": "交通和地圖符號",
+  "unicode.type.327": "煉金術符號",
+  "unicode.type.328": "幾何形狀擴展",
+  "unicode.type.329": "補充箭頭-C",
+  "unicode.type.330": "補充符號和象形文字",
+  "unicode.type.331": "西洋棋符號",
+  "unicode.type.332": "符號和象形文字擴展-A",
+  "unicode.type.333": "舊式計算符號",
+  "unicode.type.334": "中日韓統一表意文字擴展 B",
+  "unicode.type.335": "中日韓統一表意文字擴充 C",
+  "unicode.type.336": "中日韓統一表意文字擴展 D",
+  "unicode.type.337": "中日韓統一表意文字擴展 E",
+  "unicode.type.338": "中日韓統一表意文字擴充 F",
+  "unicode.type.339": "中日韓統一表意文字擴展 I",
+  "unicode.type.340": "中日韓相容表意文字補充",
+  "unicode.type.341": "中日韓統一表意文字擴展 G",
+  "unicode.type.342": "中日韓統一表意文字擴展 H",
+  "unicode.type.343": "中日韓統一表意文字擴展 J",
+  "unicode.type.344": "標籤",
+  "unicode.type.345": "變體選擇符補充",
+  "unicode.type.346": "補充私用區-A",
+  "unicode.type.347": "補充私人區域-B",
   "setting.name": "設定",
   "setting.hotkey.goToUnicode": "跳轉至 Unicode",
   "setting.yes": "完成",
