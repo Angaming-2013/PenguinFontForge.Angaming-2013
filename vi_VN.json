@@ -168,5 +168,9 @@
   "setting.name": "cài đặt",
   "setting.hotkey.goToUnicode": "đi đến unicode",
   "setting.yes": "Xong",
-  "setting.cancel": "Hủy Bỏ"
+  "setting.cancel": "Hủy Bỏ",
+  "ChaEndcode.name":"Mã hóa ký tự",
+  "ChaEndcode.type":"Loại mã hóa ký tự",
+  "ChaEndcode.BPM": "Mã hóa BMP (BMP 0000 -> FFFF)",
+  "ChaEndcode.Full": "Mã hóa toàn bộ (Full 0000 -> 10FFFF)"
 }
