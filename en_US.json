@@ -168,5 +168,9 @@
   "setting.name": "Settings",
   "setting.hotkey.goToUnicode": "Go to Unicode",
   "setting.yes": "Done",
-  "setting.cancel": "Cancel"
+  "setting.cancel": "Cancel",
+  "ChaEndcode.name":"Character encoding",
+  "ChaEndcode.type":"Character encoding type",
+  "ChaEndcode.BPM": "Encodeding Full(BMP 0000 -> FFFF)"
+  "ChaEndcode.Full": "Encodeding Full(Full 0000 -> 10FFFF)"
 }
