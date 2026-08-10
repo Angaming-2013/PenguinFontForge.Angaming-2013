@@ -156,7 +156,7 @@
   "unicode.type.154": "사용자 정의 영역",
   "unicode.type.155": "CJK 호환용 한자",
   "unicode.type.156": "알파벳 표시 형태",
-  "unicode.type.157": "아랍어 표시 형태" Forms-A",
+  "unicode.type.157": "아랍어 표시 형태-A",
   "unicode.type.158": "변형 선택자",
   "unicode.type.159": "세로쓰기 형태",
   "unicode.type.160": "결합 반쪽 기호",
@@ -326,7 +326,7 @@
   "unicode.type.324": "이모티콘",
   "unicode.type.325": "장식용 딩뱃(Dingbats)",
   "unicode.type.326": "교통 및 지도 기호",
-  "unicode.type.327": "연금술 기호" 기호",
+  "unicode.type.327": "연금술 기호",
   "unicode.type.328": "기하학적 도형 확장",
   "unicode.type.329": "보조 화살표-C",
   "unicode.type.330": "보조 기호 및 그림 문자",
@@ -353,6 +353,6 @@
   "setting.cancel": "취소",
   "ChaEncode.name":"문자 인코딩",
   "ChaEncode.type":"문자 인코딩 유형",
-  "ChaEncode.BPM": "전체 인코딩(BMP 0000 -> FFFF)",
+  "CharEncode.BMP": "BMP 인코딩(BMP 0000 -> FFFF)",
   "ChaEncode.Full": "전체 인코딩(Full 0000 -> 10FFFF)"
 }
