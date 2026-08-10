@@ -171,6 +171,6 @@
   "setting.cancel": "キャンセル",
   "ChaEndcode.name":"文字エンコーディング",
   "ChaEndcode.type":"文字エンコーディングの種類",
-  "ChaEndcode.BPM": "エンコーディング: BMP (0000 -> FFFF)"
+  "ChaEndcode.BPM": "エンコーディング: BMP (0000 -> FFFF)",
   "ChaEndcode.Full": "エンコーディング: Full (0000 -> 10FFFF)"
 }
