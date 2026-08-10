@@ -169,8 +169,8 @@
   "setting.hotkey.goToUnicode": "跳轉至 Unicode",
   "setting.yes": "完成",
   "setting.cancel": "取消",
-  "ChaEndcode.name":"字元編碼",
-  "ChaEndcode.type":"字元編碼類型",
-  "ChaEndcode.BPM": "完整編碼 (BMP 0000 -> FFFF)",
-  "ChaEndcode.Full": "完整編碼 (Full 0000 -> 10FFFF)"
+  "ChaEncode.name":"字元編碼",
+  "ChaEncode.type":"字元編碼類型",
+  "ChaEncode.BPM": "完整編碼 (BMP 0000 -> FFFF)",
+  "ChaEncode.Full": "完整編碼 (Full 0000 -> 10FFFF)"
 }
