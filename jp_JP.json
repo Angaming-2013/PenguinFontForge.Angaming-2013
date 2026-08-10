@@ -169,8 +169,8 @@
   "setting.hotkey.goToUnicode": "Unicodeへ移動",
   "setting.yes": "完了",
   "setting.cancel": "キャンセル",
-  "ChaEndcode.name":"文字エンコーディング",
-  "ChaEndcode.type":"文字エンコーディングの種類",
-  "ChaEndcode.BPM": "エンコーディング: BMP (0000 -> FFFF)",
-  "ChaEndcode.Full": "エンコーディング: Full (0000 -> 10FFFF)"
+  "ChaEncode.name":"文字エンコーディング",
+  "ChaEncode.type":"文字エンコーディングの種類",
+  "ChaEncode.BPM": "エンコーディング: BMP (0000 -> FFFF)",
+  "ChaEncode.Full": "エンコーディング: Full (0000 -> 10FFFF)"
 }
