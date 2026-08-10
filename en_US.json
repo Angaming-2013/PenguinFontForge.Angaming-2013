@@ -165,7 +165,7 @@
   "unicode.type.163": "Arabic Presentation Forms-B",
   "unicode.type.164": "Halfwidth and Fullwidth Forms",
   "unicode.type.165": "Specials",
-    "unicode.type.166": "Linear B Syllabary",
+  "unicode.type.166": "Linear B Syllabary",
   "unicode.type.167": "Linear B Ideograms",
   "unicode.type.168": "Aegean Numbers",
   "unicode.type.169": "Ancient Greek Numbers",
@@ -353,6 +353,6 @@
   "setting.cancel": "Cancel",
   "ChaEncode.name":"Character encoding",
   "ChaEncode.type":"Character encoding type",
-  "ChaEncode.BPM": "Encodeding Full(BMP 0000 -> FFFF)"，
+  "ChaEncode.BPM": "Encodeding Full(BMP 0000 -> FFFF)",
   "ChaEncode.Full": "Encodeding Full(Full 0000 -> 10FFFF)"
 }
